@@ -37,6 +37,7 @@
     "json3": "^3.3.2",
     "load-grunt-tasks": "^4.0.0",
     "mocha": "^5.2.0",
+    "phantomjs": "1.9.20",
     "proxyquire": "^2.1.0",
     "serve-static": "^1.13.2",
     "sinon": "2.4.1",
